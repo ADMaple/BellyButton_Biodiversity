@@ -14,15 +14,19 @@ Software: Visual Studio Code, JavaScript, JSON and HTML
 ## Analysis and Results of Data
 
 ![Header](https://user-images.githubusercontent.com/108022219/192423020-3a5bc87e-34da-48b0-bd68-178d4086fb17.png)
+
 The dashboard allows for users to browse the interactive charts below to explore the dataset.
            
 ![Top 10 Bar](https://user-images.githubusercontent.com/108022219/192423021-08c280f3-4b57-488d-be2a-25cf5067a79f.png)
+
 This bar chart shows the top 10 bacterial cultures for this particular subject. 
 An "OTU" is an Operational Taxonomic Unit, and here it's used to measure an individual, species, genus, or class of belly button bacteria! 
 
 ![Gauge](https://user-images.githubusercontent.com/108022219/192423019-0846e76d-4190-4a48-912e-9a35b42619ca.png)
+
 This gauge chart shows the average frequency that this particular subject washed their belly button each week. 
 
 
 ![Bubble](https://user-images.githubusercontent.com/108022219/192423007-39cdefbe-9f6e-43dd-9fac-79c29f8b450b.png)
+
 This bubble chart shows all the OTUs. The size and color of the bubble indiates the volume of each particular cluster.
