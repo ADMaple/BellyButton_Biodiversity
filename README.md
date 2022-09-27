@@ -2,13 +2,15 @@
 
 ## Project Overview
 Working with Roza who is a Biological Researcher who studies different bacteria cultures. Roza needs help creating a dashboard to display the data she's gathered. She has a completed panel for demographic information and now needs to visualize the bacterial data for each volunteer. Specifically, her volunteers should be able to identify the top 10 bacterial species in their belly buttons. 
+
   -Deliverable 1: Create a Horizontal Bar Chart
   -Deliverable 2: Create a Bubble Chart
   -Deliverable 3: Create a Gauge Chart
   -Deliverable 4: Customize the Dashboard
 
 ## Resources
-Data Source: BellyButton_bar_chart_starter_code.js, BellyButton_bubble_chart_starter_code.js, BellyButton_bubble_chart_starter_code.js and index.html
+Data Source: BellyButton_bar_chart_starter_code.js, BellyButton_bubble_chart_starter_code.js
+
 Software: Visual Studio Code, JavaScript, JSON and HTML
 
 ## Analysis and Results of Data
