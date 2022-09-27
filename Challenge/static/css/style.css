@@ -1,0 +1,49 @@
+
+body {
+ background-color: rgb(159, 167, 241);
+}
+.jumbotron {
+  background-image: url("https://www.atcc.org/-/media/images/atcc/culture-guides/bacteriology-guide/norm_-barker_agar-plates.jpg?rev=b67827e176a84d07a59b78d7f125dea4&hash=761C30DAE788BD7B23724036638F76ED")
+}
+#header.jumbotron {
+  color: #f1e7e7 !important;
+}
+h1 {
+  background-color:rgb(255, 255, 255);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: x-large;
+  margin-top: 0;
+
+}
+#bar {
+  border-radius: 35px !important;
+  margin-bottom: 25px;
+}
+
+#bubblebox, #culturebox, #marginbox {
+  padding: 4px;
+  background-color: white;
+  border: 1px solid #60797f;
+  border-radius: 10px !important;
+  margin-bottom: 15px;
+}
+
+
+.well {
+  border: 1px solid #60797f;
+}
+
+.center{
+  text-align: center !important;
+}
+
+#footer {
+  background-color:rgba(97, 79, 87, 0.4);
+  border-radius: 5px !important;
+  padding: 20px;
+}
+
+#footer a {color: #444;}
